@@ -1,0 +1,32 @@
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals\bin\Debug\Signals.exe
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals\bin\Debug\Signals.pdb
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals\obj\Debug\Signals.MainForm.resources
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals\obj\Debug\Signals.NewDocForm.resources
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals\obj\Debug\Signals.Properties.Resources.resources
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals\obj\Debug\Signals.csproj.GenerateResource.Cache
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals\obj\Debug\Signals.exe
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals\obj\Debug\Signals.pdb
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals\obj\Debug\Signals.DemoView.resources
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals - kiindulás\obj\Debug\Signals.exe
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals - kiindulás\obj\Debug\Signals.pdb
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals - kiindulás\bin\Debug\Signals.exe
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals - kiindulás\bin\Debug\Signals.pdb
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals - kiindulás\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals - kiindulás\obj\Debug\Signals.DemoView.resources
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals - kiindulás\obj\Debug\Signals.MainForm.resources
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals - kiindulás\obj\Debug\Signals.NewDocForm.resources
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals - kiindulás\obj\Debug\Signals.Properties.Resources.resources
+C:\Data\Tanszek\Oktatott targyak\Rendszer és alkalmazástechnika labor II\DocView mérés\FontEditor\Signals - kiindulás\obj\Debug\Signals.csproj.GenerateResource.Cache
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\bin\Debug\Signals.exe.config
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\bin\Debug\Signals.exe
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\bin\Debug\Signals.pdb
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\obj\Debug\Signals.csproj.AssemblyReference.cache
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\obj\Debug\Signals.DemoView.resources
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\obj\Debug\Signals.MainForm.resources
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\obj\Debug\Signals.NewDocForm.resources
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\obj\Debug\Signals.Properties.Resources.resources
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\obj\Debug\Signals.csproj.GenerateResource.cache
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\obj\Debug\Signals.csproj.CoreCompileInputs.cache
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\obj\Debug\Signals.exe
+C:\Mikrokontroller_labor\8_meres\Signals - kiindulás\obj\Debug\Signals.pdb

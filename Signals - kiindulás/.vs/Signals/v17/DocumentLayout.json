@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mikrokontroller_labor\\8_meres\\Signals - kiindul\u00E1s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E0AD50-2044-4157-AEC0-20DF90BC9658}|Signals.csproj|c:\\mikrokontroller_labor\\8_meres\\signals - kiindul\u00E1s\\signaldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E0AD50-2044-4157-AEC0-20DF90BC9658}|Signals.csproj|solutionrelative:signaldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E0AD50-2044-4157-AEC0-20DF90BC9658}|Signals.csproj|c:\\mikrokontroller_labor\\8_meres\\signals - kiindul\u00E1s\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E0AD50-2044-4157-AEC0-20DF90BC9658}|Signals.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E0AD50-2044-4157-AEC0-20DF90BC9658}|Signals.csproj|c:\\mikrokontroller_labor\\8_meres\\signals - kiindul\u00E1s\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E0AD50-2044-4157-AEC0-20DF90BC9658}|Signals.csproj|solutionrelative:document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E0AD50-2044-4157-AEC0-20DF90BC9658}|Signals.csproj|c:\\mikrokontroller_labor\\8_meres\\signals - kiindul\u00E1s\\signalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E0AD50-2044-4157-AEC0-20DF90BC9658}|Signals.csproj|solutionrelative:signalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Mikrokontroller_labor\\8_meres\\Signals - kiindul\u00E1s\\Document.cs",
+              "RelativeDocumentMoniker": "Document.cs",
+              "ToolTip": "C:\\Mikrokontroller_labor\\8_meres\\Signals - kiindul\u00E1s\\Document.cs",
+              "RelativeToolTip": "Document.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAjwEoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:32:23.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignalValue.cs",
+              "DocumentMoniker": "C:\\Mikrokontroller_labor\\8_meres\\Signals - kiindul\u00E1s\\SignalValue.cs",
+              "RelativeDocumentMoniker": "SignalValue.cs",
+              "ToolTip": "C:\\Mikrokontroller_labor\\8_meres\\Signals - kiindul\u00E1s\\SignalValue.cs",
+              "RelativeToolTip": "SignalValue.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:49:53.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignalDocument.cs",
+              "DocumentMoniker": "C:\\Mikrokontroller_labor\\8_meres\\Signals - kiindul\u00E1s\\SignalDocument.cs",
+              "RelativeDocumentMoniker": "SignalDocument.cs",
+              "ToolTip": "C:\\Mikrokontroller_labor\\8_meres\\Signals - kiindul\u00E1s\\SignalDocument.cs",
+              "RelativeToolTip": "SignalDocument.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:44:43.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Mikrokontroller_labor\\8_meres\\Signals - kiindul\u00E1s\\App.cs",
+              "RelativeDocumentMoniker": "App.cs",
+              "ToolTip": "C:\\Mikrokontroller_labor\\8_meres\\Signals - kiindul\u00E1s\\App.cs",
+              "RelativeToolTip": "App.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAuwJIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:24:12.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
